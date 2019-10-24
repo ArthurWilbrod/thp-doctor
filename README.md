@@ -1,5 +1,8 @@
 # README
 
+
+Lance moi tout bundle install puis rails db:migrate  puis db:seed
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
